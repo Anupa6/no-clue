@@ -18,16 +18,26 @@
  </ul>
  <h2>Top Itineraries</h2>
   </body>
+
+  
   <figure> <a href="https://www.freecodecamp.org/learn" targret="_blank" ><img src="https://raw.githubusercontent.com/Anupa6/no-clue/refs/heads/main/Panch%20Pokhari%20%2C%20Sindhupalchwok%20%2C%20Nepal%F0%9F%87%B3%F0%9F%87%B5.jpg" height="300" width="400" alt="nature"></a>
     <figcaption>Beautiful nature<figcaption/>
   </figure>
+
+      
 <figure> <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://raw.githubusercontent.com/Anupa6/no-clue/refs/heads/main/People%20of%20Nepal%20varies%20in%20accordance%20to%20their%20geographical%20setting%20as%20well%20as%20the%20weather%20conditions_.jpg" height="300" width="400" alt="culture"></a>
   <figcaption>Rich culture</figcaption>
   </figure>
+
+  
   <figure> <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://raw.githubusercontent.com/Anupa6/no-clue/refs/heads/main/Newari%20authentic%20food%20in%20Nepal.jpg"height="300" width="400" alt="food" ></a>
   <figcaption>Delicious foods</figcaption>
   </figure> 
+
+  
 <figure> <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://raw.githubusercontent.com/Anupa6/no-clue/refs/heads/main/_Nepali%20Souvenirs_%20by%20Stocksy%20Contributor%20%20_Bisual%20Studio_.jpg" height="300" width="400"  alt="art"></a>
   <figcaption>Unique arts and crafts</figcaption>
   </figure>
+
+  
   </html>
